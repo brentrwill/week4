@@ -1,0 +1,6 @@
+Here are the instructions.
+
+In your existing Java Project in Eclipse. Make sure you have a src/week4 package/folder.
+Copy the PetStore.java and pet.list.txt into your src/week4 folder.
+
+After that you can run the program and follow the output.
